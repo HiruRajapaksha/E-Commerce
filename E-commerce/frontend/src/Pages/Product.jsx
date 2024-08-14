@@ -1,8 +1,12 @@
-import React from 'react'
+import React from 'react';
+
 
 const Product = () => {
+  
   return (
-    <div></div>
+    <div>
+      
+    </div>
   )
 }
 
